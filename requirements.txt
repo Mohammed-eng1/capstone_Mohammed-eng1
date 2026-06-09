@@ -1,9 +1,8 @@
 pandas
 numpy
 scikit-learn
+tensorflow
 matplotlib
 seaborn
-tensorflow
-keras
 nltk
-jupyter
+scipy
