@@ -131,4 +131,3 @@ scipy
 
 ---
 
-*Tuwaiq Academy — Bootcamp Programme | ML, Deep Learning & NLP Applications*
