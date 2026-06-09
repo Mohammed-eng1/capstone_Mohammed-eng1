@@ -7,7 +7,7 @@
 ## 📁 Project Structure
 
 ```
-capstone_yourname/
+capstone_Mohammed-eng1/
 ├── notebook.ipynb        # Main Jupyter notebook (run top-to-bottom)
 ├── report.md             # Written report covering all 6 sections
 ├── README.md             # This file
